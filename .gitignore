@@ -169,4 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-ml-book 
+
+ml-book/lib/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
