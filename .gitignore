@@ -179,3 +179,7 @@ __pycache__/
 data/
 ml-book
 chapter8/aclImdb
+cat_dog_images
+celeba
+img_align_celeba
+MNIST 
