@@ -183,3 +183,14 @@ cat_dog_images
 celeba
 img_align_celeba
 MNIST 
+aclImdb_v1.tar.gz
+lightnight_logs
+aclImdb
+1268-0.txt
+.vscode/
+chapter15/aclImdb/*
+chapter15/1268-0.txt
+chapter15/aclImdb_v1.tar.gz
+chapter15/aclImdb
+**/lightning_logs/
+lightning_logs/
